@@ -1,91 +1,44 @@
 Excited to share my 𝗨𝗯𝗲𝗿 𝗧𝗿𝗶𝗽 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 Dashboard created using 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙎𝙌𝙇, 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄 𝙖𝙣𝙙 𝙀𝙭𝙘𝙚𝙡 to transform raw data into strategic business insights.
 
-
-
 ⦁𝟭𝟬𝟯.𝟳𝗞 Total Bookings generating $𝟭.𝟲𝗠 in revenue – highlighting Uber’s strong demand and brand reliability.
-
 ⦁$𝟭𝟱 Average Booking Value across 𝟯𝟰𝟵𝗞 miles travelled, with trips averaging 𝟯 𝗺𝗶𝗹𝗲𝘀 & 𝟭𝟲 𝗺𝗶𝗻𝘂𝘁𝗲𝘀, reflecting Uber’s dominance in short-to-medium urban rides.
-
 ⦁Day Trips dominate (𝟲𝟴𝗞, 𝟲𝟱%) while Night Trips (𝟯𝟲𝗞, 𝟯𝟱%) still show strong off-peak demand.
-
 ⦁UberX most preferred vehicle with 𝟯𝟴.𝟳𝗞 bookings & $𝟱𝟴𝟯.𝟵𝗞 revenue.
-
 ⦁𝗣𝗲𝗻𝗻 𝗦𝘁𝗮𝘁𝗶𝗼𝗻 as the most frequent pickup point & 𝗨𝗽𝗽𝗲𝗿 𝗘𝗮𝘀𝘁 𝗦𝗶𝗱𝗲 𝗡𝗼𝗿𝘁𝗵 as top drop-off.
-
 ⦁Longest ride recorded: 𝟭𝟰𝟰 𝗺𝗶𝗹𝗲𝘀 (Lower East Side → Crown Heights North).
 
-
-
 𝙋𝙖𝙮𝙢𝙚𝙣𝙩 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨:
-
 ⦁Uber Pay leads with 𝟲𝟳% of transactions → showing preference for 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝘄𝗮𝗹𝗹𝗲𝘁𝘀.
-
 ⦁Cash (~𝟯𝟮%) still significant → highlights importance of 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗶𝗻𝗰𝗹𝘂𝘀𝗶𝘃𝗶𝘁𝘆.
-
 ⦁Amazon Pay & Google Pay (<𝟭%) → 𝗻𝗶𝗰𝗵𝗲 𝘂𝘀𝗲𝗿𝘀, but potential for partnerships.
 
-
-
 𝙑𝙚𝙝𝙞𝙘𝙡𝙚 𝙏𝙮𝙥𝙚 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨:
-
 ⦁UberX – Most preferred with 𝟯𝟴.𝟳𝗞 bookings & $𝟱𝟴𝟯.𝟵𝗞 revenue.
-
 ⦁Uber Comfort & Uber XL – Mid-tier options with strong revenue contribution ($𝟱𝟬𝟬𝗞 combined).
-
 ⦁Uber Black – Premium rides (𝟭𝟲.𝟳𝗞 bookings), ideal for corporate/affluent customers.
-
 ⦁Uber Green – 𝟭𝟰.𝟱𝗞 bookings, showing early adoption of eco-friendly transport.
 
-
-
 𝙇𝙤𝙘𝙖𝙩𝙞𝙤𝙣 𝙏𝙧𝙚𝙣𝙙𝙨:
-
 ⦁Top 𝗣𝗶𝗰𝗸-𝘂𝗽 Point – Penn Station/Madison Sq West – 𝗸𝗲𝘆 𝘁𝗿𝗮𝗻𝘀𝗶𝘁 𝗵𝘂𝗯.
-
 ⦁Top 𝗗𝗿𝗼𝗽-𝗼𝗳 Point – Upper East Side North – 𝘀𝘁𝗿𝗼𝗻𝗴 𝗿𝗲𝘀𝗶𝗱𝗲𝗻𝘁𝗶𝗮𝗹 𝗱𝗲𝗺𝗮𝗻𝗱.
-
 ⦁Farthest Trip: 𝟭𝟰𝟰 𝗺𝗶𝗹𝗲𝘀 → Highlighting Uber’s potential for inter-city and long-distance travel.
 
-
-
 𝙏𝙞𝙢𝙚-𝘽𝙖𝙨𝙚𝙙 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨:
-
 ⦁Morning peak (𝟳–𝟵 𝗔𝗠) → commuters heading to offices.
-
 ⦁Evening peak (𝟱–𝟳 𝗣𝗠) → return journeys & leisure travel.
-
 ⦁𝗙𝗿𝗶 & 𝗦𝘂𝗻 record the highest trips, showing weekday commuting and weekend leisure demand.
 
-
-
 𝘿𝙖𝙨𝙝𝙗𝙤𝙖𝙧𝙙 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:
-
 ⦁ KPI Cards → at-a-glance business performance.
-
 ⦁ Vehicle & Payment Filters → track customer choices in real-time.
-
 ⦁ Heatmaps by Hour & Day → uncover demand patterns.
-
 ⦁ Geo-maps → identify high-demand pickup/drop-off zones.
 
-
-
 𝙏𝙤𝙤𝙡𝙨 𝙐𝙨𝙚𝙙:
-
 Python (Pandas, NumPy, Matplotlib, Seaborn) SQL Power BI Excel 
 
-
-
 𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙑𝙖𝙡𝙪𝙚 𝙩𝙤 𝘾𝙤𝙢𝙥𝙖𝙣𝙞𝙚𝙨:
-
 ✔Optimize driver allocation during peak hours and high-demand days.
-
 ✔Personalize promotions and discounts (cash users → incentivize digital payments).
-
 ✔Strengthen strategic partnerships (Google Pay / Amazon Pay).
-
 ✔Expand eco-friendly Uber Green marketing to boost sustainability.
-
-#Uber #DataAnalytics #PowerBI #SQL #Python
-
-#Excel #DataVisualization #DAX #PowerQuery #BusinessInsights #InteractiveDashboards #RealWorldAnalytics
